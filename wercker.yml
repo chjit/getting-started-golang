@@ -1,5 +1,5 @@
 box:
-  id: golang
+  id: golang:1.13.8
   ports:
     - "5000"
 
